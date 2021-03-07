@@ -11,4 +11,4 @@ A website that advertises on the web for businesses.
 https://jmuel9999.github.io/challenge1---Horiseon-Website/
 
 ## Screenshot
-![Full website screenshot](./assets/images/bestscreenshot.png) 
+![Full website screenshot](../assets/images/bestscreenshot.png) 
